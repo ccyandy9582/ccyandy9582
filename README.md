@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andy
 - 👀 I’m interested in website develop.
 - 🌱 I’m currently learning MERN, and testing skill.
-- 💞️ I’m now a collage student and going to graduate at August/2021 
+- 💞️ I’m now a university student and going to graduate at August/2021 
 <!--- - 📫 Reach me by email: ccyandy9582@gmail.com --->
 
 <!---
